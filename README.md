@@ -1,8 +1,7 @@
-### Santosh Kori 👋
+# Santosh Kori 👋
 
-I'm a full-stack developer currently working at Pragiti Inc, IN. with over 15+ years of experiences in frontend development.
-
-I enjoy turning complex problems into simple, beautiful and intuitive designs. 
+##I enjoy turning complex problems into simple, beautiful and intuitive designs. 
+##I'm a full-stack developer currently working at Pragiti Inc, IN. with over 15+ years of experiences in frontend development.
 
 I developed Static websites (using HTML, DHTML, JavaScript, XHTML), Dynamic website (using XML, PHP, MySQL, Content Management System (CMS) like Shopify, WordPress, Joomla) and custom e-commerce website.
 
