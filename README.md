@@ -15,7 +15,6 @@ I create technical content on my [Blog](http://www.santoshkori.com/blog)
 ### Useful Links 💙
 
 - [Website](http://www.santoshkori.com)
-- [YouTube](https://www.youtube.com/c/santoshkori)
 - [Twitter](https://twitter.com/santoshkori)
 - [LinkedIn](https://linkedin.com/in/santoshkori/)
 
