@@ -8,9 +8,9 @@ I developed Static websites (using HTML, DHTML, JavaScript, XHTML), Dynamic webs
 
 I have very good experience in WordPress Customization, Joomla Template customization, Configuration of wordpress Themes and wordpress Plugins customization, Configuration of Joomla Templates with extensions, Joomla Migration & WordPress Migration over Web Hots / Servers / Domains, Joomla website Maintainance and WordPress Maintenance and more…
 
-I create technical content on my [Blog](/http://www.santoshkori.com/blog)
+I create technical content on my [Blog](http://www.santoshkori.com/blog)
 - 💬 Ask me about: Shopify, Wordpress Custom Development, UI/ UX.
-- 📫 How to reach me: DM [@korisantosh](http://www.santoshkori.com/blog)
+- 📫 How to reach me: Website [@korisantosh](http://www.santoshkori.com/blog)
 
 ### Useful Links 💙
 
