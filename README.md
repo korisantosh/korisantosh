@@ -1,4 +1,7 @@
+![Santosh Kori](https://media-exp1.licdn.com/dms/image/C5116AQEWy9CN9_rxnA/profile-displaybackgroundimage-shrink_200_800/0?e=1603324800&v=beta&t=tO4Xu8zmSPJROlspr9XjEKJYO39OjrZ9h6edRqNyEjc)
+
 # Santosh Kori 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/santoshkori?label=Follow)](https://twitter.com/santoshkori)
 
 ## I enjoy turning complex problems into simple, beautiful and intuitive designs. 
 ### I'm a full-stack developer currently working at Pragiti Inc, IN. with over 15+ years of experiences in frontend development.
@@ -14,7 +17,7 @@ Specialties: - Wordpress, Shopify, HTML5, CSS3, Javascript, jQuery, Ajax, Respon
 - Brand development, web site traffic growth, web site UI and advertising revenue. Developed brand strategy and statistics systems.
 - Good understanding of Search Engine Optimization
 
-More Detail visit http://www.santoshkori.com 
+⭐ More Detail visit http://www.santoshkori.com 
 
 I create technical content on my [Blog](http://www.santoshkori.com/blog)
 - 💬 Ask me about: Shopify, Wordpress Custom Development, UI/ UX.
