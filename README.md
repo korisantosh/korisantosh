@@ -3,8 +3,10 @@
 # Santosh Kori 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/santoshkori?label=Follow)](https://twitter.com/santoshkori)
 
+> *Follow your curiosity, push yourself to do hard things, and learn from failures*
+
 ## I enjoy turning complex problems into simple, beautiful and intuitive designs. 
-### I'm a full-stack developer currently working at Pragiti Inc, IN. with over 15+ years of experiences in frontend development.
+#### I'm a full-stack developer currently working at Pragiti Inc, IN. with over 15+ years of experiences in frontend development.
 
 I passionate and focused in seeking simple and effective solutions to complex business and user problems in creative ways; by focusing on the end user to design products that are usable, engaging, functional and profitable.
 
